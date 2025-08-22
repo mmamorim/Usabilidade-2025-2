@@ -176,6 +176,12 @@ Exemplos: `<span>`, `<a>`, `<strong>`, `<em>`
 | `<label>`     | Inline | Rótulo para campos de formulário               |
 
 
+## Tags Genéricas
+
+* `div`: elemento Block
+* `span`: elemento Inline
+
+
 ### Referências:
 
 ##### HTML:
