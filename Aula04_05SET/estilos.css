@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 
 .caixa {
     border: 1px solid black;
@@ -38,5 +39,16 @@
 }
 
 .user-item-info .title {
-    font-weight: 800;
+    font-weight: 600;
+    font-family: "Inter";
+}
+
+.user-item-info .email {
+    font-weight: 400;
+    font-family: "Inter";
+}
+
+.user-item-info .username {
+    font-weight: 200;
+    font-family: "Inter";
 }
