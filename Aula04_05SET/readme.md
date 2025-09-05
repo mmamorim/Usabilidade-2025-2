@@ -24,6 +24,11 @@ https://fonts.google.com/
 
 # Iconify
 
+lista de icones:
+
+https://icones.js.org/collection/all
+
+
 adicionar no head:
 
 ~~~html
