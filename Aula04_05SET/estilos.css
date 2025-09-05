@@ -21,13 +21,22 @@
     padding: 6px;
     border: 1px solid #d0d0d0;
     border-radius: 5px;
+    gap: 5px;
 }
 
 .user-item-avatar {
-    width: 40px;
+    width: 50px;
 }
 
 .user-item-avatar img {
     width: 100%;
     border-radius: 20px;
+}
+
+.user-item-info {
+    font-size: 10pt;
+}
+
+.user-item-info .title {
+    font-weight: 800;
 }
