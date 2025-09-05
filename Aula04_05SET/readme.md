@@ -9,3 +9,11 @@
 ## Flex Box
 
 Link p/ tutorial [https://css-tricks.com/snippets/css/a-guide-to-flexbox/](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+randomUser
+
+link para fotos de perfil
+
+masculino: https://randomuser.me/api/portraits/men/71.jpg
+
+feminino: https://randomuser.me/api/portraits/women/71.jpg

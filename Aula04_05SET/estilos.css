@@ -1,4 +1,23 @@
 
 .caixa {
     border: 1px solid black;
+    display: flex;
+    width: 400px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
 }
+
+.item-caixa {
+    border: 1px solid red;
+}
+
+.grow {
+    flex-grow: 1;
+}
+
+.user-item {
+    display: flex;
+}
+
+
