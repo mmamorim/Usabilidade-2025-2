@@ -17,3 +17,21 @@ link para fotos de perfil
 masculino: https://randomuser.me/api/portraits/men/71.jpg
 
 feminino: https://randomuser.me/api/portraits/women/71.jpg
+
+# Google Fonts
+
+https://fonts.google.com/
+
+# Iconify
+
+adicionar no head:
+
+~~~html
+<script src="https://cdn.jsdelivr.net/npm/iconify-icon@2.0.0/dist/iconify-icon.min.js"></script>
+~~~
+
+como usar:
+
+~~~html
+<iconify-icon icon="mdi:home"></iconify-icon>
+~~~
