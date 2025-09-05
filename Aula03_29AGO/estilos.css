@@ -1,0 +1,68 @@
+p {
+    color: #004781;
+    font-size: 18pt;
+    font-weight: 900;
+}
+
+h1 {
+    color: red;
+}
+
+.caixa {
+    border: 1px solid black;
+    color: green !important;
+}
+
+.caixaRedonda {
+    border-radius: 5px;
+    color: orange;
+}
+
+.btn {
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: white;
+}
+
+.btn-primary {
+    background-color: blue;
+    color: white;
+}
+
+.btn-danger {
+    background-color: red;
+    color: white;
+    border-color: #400000;
+}
+
+#botao1 {
+    color: pink;
+}
+
+.card {
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 5px 8px 5px 8px;
+    width: 360px;
+}
+
+.card-title {
+    font-weight: 900;
+    border-bottom: 1px solid black;
+    padding-bottom: 3px;
+}
+
+.card-body {
+    padding: 5px 8px 5px 8px;
+    border-bottom: 1px solid black;
+}
+
+.card-footer {
+    padding: 5px 8px 5px 8px;
+    text-align: center;
+}
+
+.card-footer button {
+    margin-left: 15px;
+    margin-right: 15px;
+}

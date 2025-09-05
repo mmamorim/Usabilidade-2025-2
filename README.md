@@ -11,3 +11,4 @@
 * [Aula 01](./Aula01_15AGO/) (15/08) - Apresentação da UC
 * [Aula 02](./Aula02_22AGO/) (22/08) - HTML
 * [Aula 03](./Aula03_29AGO/) (29/08) - CSS
+* [Aula 04](./Aula04_05SET/) (05/09) - CSS - A Revanche - Flexbox
