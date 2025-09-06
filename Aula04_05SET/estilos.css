@@ -57,3 +57,17 @@
     font-weight: 200;
     font-family: "Inter";
 }
+
+.user-item-actions {
+    display: flex;
+    gap: 3px;
+}
+
+.user-item-actions button {
+    display: flex;
+    align-items: center;
+    font-size: 18pt;
+    padding: 3px;
+    border-radius: 25px;
+    background-color: white;
+}
