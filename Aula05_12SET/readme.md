@@ -66,3 +66,9 @@ Para usar o Tailwind CSS via CDN, copie e cole o script da biblioteca dentro da 
 ~~~
 
 > AVISO: A inportação desta forma é apenas para uso em aula (teste).
+
+### Presentes na aula
+
+> Arthur Calipo
+> Guilherme Pereira de Menezes
+> Adolpho Dumont de Souza
