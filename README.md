@@ -15,3 +15,4 @@
 * [Aula 05](./Aula05_12SET/) (12/09) - Frameworks CSS
     - Bootstrap
     - Tailwind Css
+* [Aula 06](./Aula06_19SET/) (19/09) - Javascript
