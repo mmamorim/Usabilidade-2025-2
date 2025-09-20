@@ -1,0 +1,14 @@
+{
+    "ana": {
+        "nome": "Ana",
+        "idade": 24
+    },
+    "bia": {
+        "nome": "Bia",
+        "idade": 24,
+        "endereco": {
+            "rua": "bla bla bla",
+            "numero": 123
+        }
+    }
+}
