@@ -19,3 +19,4 @@
 * Aula 07 - (26/09) - TECHWEEK
 * [Aula 08](./Aula08_03OUT/) (03/10) - Javascript - A REVANCHE!
 * [Aula 09](./Aula09_10OUT/) (10/10) - Usabilidade
+* [Aula 10](./Aula10_17OUT/) (17/10) - UX e Gamificação
